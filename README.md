@@ -1,4 +1,4 @@
-# Repo plantilla para exámenes [PRG*x*|EDA*x*|IDSW*x*]@gII.uneatlantico
+# Segunda parte del examen parcial de IdSW1
 
 
 ## Fotos Examen
