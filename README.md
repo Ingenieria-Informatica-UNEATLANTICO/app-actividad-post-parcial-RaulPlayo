@@ -17,7 +17,7 @@
 | Descripción            | Imagen                                           |
 |-------------------------|---------------------------------------------------|
 | Diagrama de clases      | ![Diagrama de clases](/images/clases.svg) |
-| Diagrama de objetos     | ![Diagrama de objetos](/images/objetos.svg) |
+| Diagrama de objetos     | ![Diagrama de objetos](/images/nuevoObjetos.svg) |
 | Diagrama de estados     | ![Diagrama de estados](/images/estados.svg) |
 
 
