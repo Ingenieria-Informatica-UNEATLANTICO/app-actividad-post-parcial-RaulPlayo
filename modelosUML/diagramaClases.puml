@@ -1,0 +1,40 @@
+@startuml
+class Vehículo {
+}
+
+class Conductor {
+}
+
+class Horario {
+}
+
+class Empresa {
+}
+
+class Incidencia {
+}
+
+class Tarifa {
+}
+
+class Servicio {
+}
+
+class Pasajero {
+}
+
+abstract class MetodoPago {
+}
+
+
+Vehículo --> Conductor : "Tiene"
+Vehículo --> Empresa : "Pertenece"
+Empresa --> Incidencia : "Gestiona"
+Conductor --> Horario : "Sigue"
+Conductor --> Pasajero : "Recoge"
+Pasajero --> Tarifa : "Paga"
+Tarifa --> Servicio : "Depende"
+Tarifa --> MetodoPago : "Pagada con"
+Pasajero --> Vehículo : "Suben"
+Incidencia --> Vehículo : "Asociada a"
+@enduml
